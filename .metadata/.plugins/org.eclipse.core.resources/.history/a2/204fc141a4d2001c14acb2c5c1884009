@@ -1,0 +1,14 @@
+package lombok;
+
+public class Customer {
+	@Setter
+	@Getter
+private long custId;
+	@Setter
+	@Getter
+private String name;
+	@Setter
+	@Getter
+private double balance;
+
+}

@@ -1,0 +1,12 @@
+package ai.jobiak.enums;
+
+public class LeapCheck {
+	public static void main(String args[]) {
+		Season s;
+		UseDay t=new UseDay();
+		t.
+
+	}
+
+
+}

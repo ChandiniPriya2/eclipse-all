@@ -1,0 +1,36 @@
+package ai.jobiak.strings;
+
+//import java.util.Scanner;
+
+public class Gmail {
+	
+String mail;
+
+public Gmail(String mail) {
+	
+	this.mail = mail;
+}
+void verifyMail() {
+int temp=0,flag=0;
+	boolean valid =false;
+	for(char c : mail.toCharArray())
+	{
+      if(c=='@') {
+    	  temp=temp-1;
+    	  if(c=='.') {
+    		  flag=flag-1;
+    	     valid=true;
+		}
+    }
+	}
+	if(valid)
+		System.out.println("Valid email id");
+	else {
+		if(temp==-1)
+			System.out.println("Your email id doesn't contain @ symbol");
+		if(flag==-1)
+			System.out.println("Your email id doesn't contain . for separation");
+	}
+	
+}
+}

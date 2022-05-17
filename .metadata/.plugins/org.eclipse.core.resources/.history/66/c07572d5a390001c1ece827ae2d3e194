@@ -1,0 +1,10 @@
+package ai.jobiak.enums;
+
+public enum Day {
+	Sunday,Monday,Tuesday,Wednesday,Friday,Thursday,Saturday
+
+
+	
+	
+
+}

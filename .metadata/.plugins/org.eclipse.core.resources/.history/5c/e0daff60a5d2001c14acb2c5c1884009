@@ -1,0 +1,22 @@
+package lombok;
+
+import java.lang.annotation.Native;
+
+@NoArgsConstructor
+@AllArgsConstructor
+@ToString
+@EqualsAndHashCode
+public class Customer {
+	
+	@Setter
+	@Getter
+	@NonNull
+private long custId;
+	@Setter
+	@Getter
+private String name;
+	@Setter
+	@Getter
+private double balance;
+
+}

@@ -1,0 +1,5 @@
+1645269130954	Rename type 'Categories'
+1645270270034	Rename type 'TypesOfIceCream'
+1645271360350	Encapsulate field 'priceOfRegular'
+1645271408214	Encapsulate field 'priceOfFamilyPack'
+1645282204926	Delete element

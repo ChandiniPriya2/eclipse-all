@@ -1,0 +1,12 @@
+package ai.jobiak.wrapper;
+
+public class StringMethods {
+
+	public static void main(String[] args) {
+		String str="hello Java";
+		int result=str.codePointAt(0);
+		System.out.println(result);
+
+	}
+
+}

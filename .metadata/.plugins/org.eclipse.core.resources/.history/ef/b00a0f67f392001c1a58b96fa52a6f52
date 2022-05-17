@@ -1,0 +1,23 @@
+package ai.jobiak.strings;
+
+public class SuggestPassword {
+String password;
+
+public SuggestPassword(String password) {
+  this.password = password;
+}
+boolean valid=false;
+if(password.length()>8) {
+for(char c:password.toCharArray()) {
+	
+           if(c=='$'||c=='#') {
+        	 valid=true;
+           }
+    }
+System.out.println("strong password");
+           }
+else 
+	System.out.println("1.password length should be greater than 8 characters");
+System.out.println("2.password contain atleast one special characte @,$,#");
+System.out.println("3.password contain upper and lowe case letters");
+}

@@ -1,0 +1,22 @@
+package ai.jobiak.strings;
+
+import java.util.Scanner;
+
+public class gmail {
+	
+String mail;
+
+public gmail(String mail) {
+	
+	this.mail = mail;
+}
+void verifyMail() {
+
+	boolean valid =false;
+	for(char c : mail.toCharArray())
+	{
+System.out.println(c);
+	}
+
+}
+}

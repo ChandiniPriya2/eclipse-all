@@ -1,0 +1,25 @@
+package ai.jobiak.wrapper;
+
+public class StringMethods {
+
+	public static void main(String[] args) {
+		String str="hello Java";
+		int result=str.codePointAt(7);//returns the ASCII value 
+		System.out.println(result);
+		int result1=str.codePointCount(0, 7);
+		System.out.println(result1);
+       String str1="Hellojava";
+       int res=str.compareTo(str1);   //case sensitive
+       System.out.println(res);
+       int res2=str.compareToIgnoreCase(str1);
+       System.out.println(res2);
+       StringContains c=new StringContains("chandinigmail.com");
+    //   c.demo();
+       Stringdemo2 s=new Stringdemo2("Chandinipriya@gmail.com");
+       //s.check();
+   //  boolean res3=str.contentEquals(str1);
+     //System.out.println(res3);
+       
+       }
+
+}

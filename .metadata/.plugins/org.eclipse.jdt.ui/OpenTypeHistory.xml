@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<typeInfoHistroy>
+    <typeInfo handle="=Day4/src&lt;ai.jobiak.inheritance{Address.java[Address" modifiers="1" timestamp="1644920722014"/>
+    <typeInfo handle="=Day4/src&lt;ai.jobiak.overriding{OverDemo1.java[OverDemo1" modifiers="1" timestamp="1644929953076"/>
+    <typeInfo handle="=Day4/src&lt;ai.jobiak.overriding{Shape.java[Shape" modifiers="1" timestamp="1644939151627"/>
+    <typeInfo handle="=Day5/src&lt;ai.jobiak.advainherit{Parent.java[Parent" modifiers="1" timestamp="1644991398658"/>
+    <typeInfo handle="=Day5/src&lt;ai.jobiak.advainherit{Base.java[Base" modifiers="1" timestamp="1644990794973"/>
+    <typeInfo handle="=Day5/src&lt;ai.jobiak.advainherit{Base2.java[Base2" modifiers="1" timestamp="1644992581655"/>
+    <typeInfo handle="=Day5/src&lt;ai.jobiak.advainherit{FinalDemo1.java[FinalDemo1" modifiers="1" timestamp="1645011690239"/>
+    <typeInfo handle="=Day5/src&lt;ai.jobiak.advainherit{FinalDemo2.java[FinalDemo2" modifiers="1" timestamp="1645111148391"/>
+    <typeInfo handle="=Day6/src&lt;ai.jobiak.abstractdemo{Shape.java[Shape" modifiers="1025" timestamp="1645092162551"/>
+    <typeInfo handle="=Day11Multithreading/C:\/Program Files\/Java\/jdk-17.0.2\/lib\/jrt-fs.jar`java.base=/module=/true=/=/javadoc_location=/https:\/\/docs.oracle.com\/en\/java\/javase\/17\/docs\/api\/=/&lt;java.lang(Runnable.class[Runnable" modifiers="1537" timestamp="1644330535930"/>
+    <typeInfo handle="=Day11Multithreading/C:\/Program Files\/Java\/jdk-17.0.2\/lib\/jrt-fs.jar`java.base=/module=/true=/=/javadoc_location=/https:\/\/docs.oracle.com\/en\/java\/javase\/17\/docs\/api\/=/&lt;java.lang(Thread.class[Thread" modifiers="33" timestamp="1644330535930"/>
+    <typeInfo handle="=Day10Exceptions/C:\/Program Files\/Java\/jdk-17.0.2\/lib\/jrt-fs.jar`java.base=/module=/true=/=/javadoc_location=/https:\/\/docs.oracle.com\/en\/java\/javase\/17\/docs\/api\/=/&lt;java.security(Provider$Service.class[Service" modifiers="9" timestamp="1644330535930"/>
+    <typeInfo handle="=Day10Exceptions/C:\/Program Files\/Java\/jdk-17.0.2\/lib\/jrt-fs.jar`java.base=/module=/true=/=/javadoc_location=/https:\/\/docs.oracle.com\/en\/java\/javase\/17\/docs\/api\/=/&lt;java.lang(Exception.class[Exception" modifiers="33" timestamp="1644330535930"/>
+    <typeInfo handle="=ModifiedWeekendTask/src&lt;ai.jobiak.modified{StoreManagement.java[StoreManagement" modifiers="513" timestamp="1645971747084"/>
+    <typeInfo handle="=ModifiedWeekendTask/src&lt;ai.jobiak.modified{IceCream.java[IceCream" modifiers="1" timestamp="1645974387773"/>
+    <typeInfo handle="=Exam/src&lt;ai.jobiak.mamal{Mammal.java[Mammal" modifiers="1" timestamp="1646639147315"/>
+    <typeInfo handle="=springiocmvnday34/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;ai.jobiak.ifaces{Printable.java[Printable" modifiers="513" timestamp="1649055665999"/>
+    <typeInfo handle="=springiocmvnday34/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;ai.jobiak.ifaces{PackingInter.java[PackingInter" modifiers="513" timestamp="1649057206165"/>
+</typeInfoHistroy>

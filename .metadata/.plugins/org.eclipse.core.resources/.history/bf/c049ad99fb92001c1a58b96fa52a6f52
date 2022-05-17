@@ -1,0 +1,24 @@
+package ai.jobiak.strings;
+
+import java.util.Scanner;
+
+public class Emailvalid {
+String userid="priyabandaru234@gmail.com";
+String password="dfghj";
+public void valid() {
+	System.out.println("enter user name");
+	Scanner sc=new Scanner(System.in);
+	String userid1=sc.nextLine();
+	if(userid1==userid) {
+		System.out.println("enter your password");
+	
+	String password1=sc.nextLine();
+	if(password==password1) {
+		System.out.println("User is valid..");
+		}
+	
+	
+	
+}
+}
+}

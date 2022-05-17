@@ -1,0 +1,14 @@
+package ai.jobiak.wrapper;
+
+public class StringMethods {
+
+	public static void main(String[] args) {
+		String str="hello Java";
+		int result=str.codePointAt(7);//returns the ASCII value 
+		System.out.println(result);
+		int result1=str.codePointCount(0, 7);
+		System.out.println(result1);
+
+	}
+
+}

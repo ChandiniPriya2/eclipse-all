@@ -1,0 +1,21 @@
+INDEX VERSION 1.131
+C:\jobiak\java\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\287689671.index
+\jspday32\src\main\java
+C:\jobiak\java\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1025272850.index
+\springiocday35\src\main\java
+C:\jobiak\java\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\191293362.index
+\springmvcday36\src\main\java
+C:\jobiak\java\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1372048382.index
+\jspassessment\src\main\java
+C:\jobiak\java\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2293990836.index
+\springmvcday36\src\main\java
+C:\jobiak\java\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\191237717.index
+\jspassessment\src\main\java
+C:\jobiak\java\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1119850563.index
+\jspday31\src\main\java
+C:\jobiak\java\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1184524416.index
+\mvcspringday36\src\main\java
+C:\jobiak\java\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2945080020.index
+\mvcspringday36\src\main\java
+C:\jobiak\java\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3892582695.index
+\springmvcday36\src\main\java

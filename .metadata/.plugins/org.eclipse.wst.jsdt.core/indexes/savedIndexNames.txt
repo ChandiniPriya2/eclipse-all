@@ -1,0 +1,15 @@
+INDEX VERSION 1.4+C:\jobiak\java\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+1383030610.index
+4099648246.index
+1473945971.index
+606474029.index
+1372048382.index
+97813743.index
+1519874960.index
+3386255612.index
+2744952716.index
+764429062.index
+1834154828.index
+2296740651.index
+2205829627.index
+3096393248.index

@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--  <!DOCTYPE beans PUBLIC "-//SPRING//DTD BEAN 2.0//EN"
+			"http://www.springframework.org/dtd/spring-beans-2.0.dtd">-->
+			
+			
+	<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xmlns:context="http://www.springframework.org/schema/context"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans 
+           http://www.springframework.org/schema/beans/spring-beans-3.0.xsd
+           http://www.springframework.org/schema/context
+           http://www.springframework.org/schema/context/spring-context-3.0.xsd">
+         <!-- 
+           <bean name="a" class="ai.jobiak.ioc.Address">
+           <constructor-arg value="Hyderabad"></constructor-arg>
+           <constructor-arg value="Telangana"></constructor-arg>
+           <constructor-arg value="India"></constructor-arg>
+           </bean>
+		
+			<bean name="empdata" class="ai.jobiak.ioc.Employee">
+		<constructor-arg value="Alfred" ></constructor-arg>
+		<constructor-arg  value="501" type="int"></constructor-arg>	
+			<constructor-arg value="5643" type="int"></constructor-arg>
+			<constructor-arg>
+			<ref bean="a"/>
+			</constructor-arg>
+			</bean>
+			 -->  
+			<!-- 
+			 <bean name="a1" class="ai.jobiak.ioc.Address">
+			 <property name="city">
+			 <value>Hyderabad</value>
+			 </property>
+			 <property name="state">
+			 <value>Telangana</value>
+			 </property>
+			 <property name="country">
+			 <value>India</value>
+			 </property>
+			 </bean>
+			  <bean name="a2" class="ai.jobiak.ioc.Address">
+			 <property name="city">
+			 <value>chennai</value>
+			 </property>
+			 <property name="state">
+			 <value>Tamilnadu</value>
+			 </property>
+			 <property name="country">
+			 <value>India</value>
+			 </property>
+			 </bean>
+			 <bean name="empdata" class="ai.jobiak.ioc.Employee">
+			 <property name="name">
+			 <value>Arun</value>
+			  </property>
+			 <property name="id">
+			 <value>501</value>
+			  </property>
+			 <property name="salary">
+			 <value>5467</value>
+			 </property>
+			 <property name="address1" ref="a1"></property>
+			 
+			  </bean>
+			   <bean name="empdata2" class="ai.jobiak.ioc.Employee">
+			 <property name="name">
+			 <value>Alfred</value>
+			  </property>
+			 <property name="id">
+			 <value>502</value>
+			  </property>
+			 <property name="salary">
+			 <value>5447</value>
+			 </property>
+			 <property name="address2" ref="a2"></property>
+			 
+			  </bean>
+			    -->  
+			   <!-- 
+			   <bean name="b" class="ai.jobiak.ioc.B"></bean>
+		<bean name="a" class="ai.jobiak.ioc.A" autowire="byName">
+		</bean>	   
+			 -->   
+			<!--   
+<bean name= "garden"  class="ai.jobiak.ioc.Garden">
+<property name="fruits">
+<list>
+<value> Mango </value>
+<value> Kiwi </value>
+<value> Watermelon </value>
+<value> orange </value>
+</list>
+</property>
+<property name="trees">
+<set>
+<value>Oak tree </value>
+<value>tamarind </value>
+<value>Banana </value>
+<value>Palm tree </value>
+</set>
+</property>
+<property name="cityFruit">
+<map>
+<entry key="hyderbad" value="custardapple "></entry>
+<entry key="banginapally" value="mangos "></entry>
+<entry key="narayanpur" value=" grapes"></entry>
+<entry key="ananthapur" value="muskmelon "></entry>
+<entry key="rajhmanudry" value="Banana "></entry>
+
+</map>
+</property>
+<constructor-arg name="flowers">
+<list>
+<value> Jasmine </value>
+<value> chrysanthimum </value>
+<value>  rose</value>
+<value> lilly </value>
+<value> cosmos </value>
+</list>
+</constructor-arg>
+</bean>
+
+<bean name="a" class="com.jobiak.auto.Point">
+<property name="x" value="25.5"></property>
+<property name="y" value="35.5"></property>
+
+</bean>
+
+<bean name="b" class="com.jobiak.auto.Point">
+<property name="x" value="75.5"></property>
+<property name="y" value="65.5"></property>
+
+</bean>
+<bean name="line" class="com.jobiak.auto.Line"  autowire="byName" >
+
+</bean>
+-->
+<!--  
+<bean name="h1" class="ai.jobiak.ioc.Hobbies">
+<constructor-arg value="Watching tv"></constructor-arg>
+<constructor-arg value="Reading books"> </constructor-arg>
+</bean>
+<bean name="h2" class="ai.jobiak.ioc.Hobbies">
+<constructor-arg value="Shopping"></constructor-arg>
+<constructor-arg value="Reading news"> </constructor-arg>
+</bean>
+<bean name="stu" class="ai.jobiak.ioc.Student">
+<constructor-arg value="503" type="int"></constructor-arg>
+<constructor-arg value="John"></constructor-arg>
+<constructor-arg>
+<list>
+<ref bean="h1"/>
+<ref bean="h2"/>
+</list>
+
+</constructor-arg>
+</bean>
+-->
+<!-- 
+<bean name="emp1" class="ai.jobiak.ioc.Emp">
+<constructor-arg value="504" type="int"></constructor-arg>
+<constructor-arg  value="Kim" ></constructor-arg>
+<constructor-arg value="6544" type="int"></constructor-arg>
+</bean>
+<bean name="emp2" class="ai.jobiak.ioc.Emp">
+<constructor-arg value="505" type="int"></constructor-arg>
+<constructor-arg  value="cook" ></constructor-arg>
+<constructor-arg value="6000" type="int"></constructor-arg>
+</bean>
+<bean name="emplist" class="ai.jobiak.ioc.EmpList">
+<constructor-arg>
+<list>
+<ref bean="emp1"/>
+<ref bean="emp2"/>
+</list>
+</constructor-arg>
+
+</bean>
+ -->
+ <!-- 
+ <bean name="answers" class="ai.jobiak.ioc.Question">
+ <property name="ans">
+ <map>
+ <entry key="java" value="james gosling"></entry>
+ <entry key="c" value="Dennis Ritchie"></entry>
+ </map>
+ 
+ </property> 
+ </bean>
+  -->
+  
+</beans>

@@ -1,0 +1,13 @@
+package ai.jobiak.strings;
+
+public class MailAndPassword {
+
+	public static void main(String[] args) {
+	
+Gmail g=new Gmail("chamdini@gmailcom");
+g.verifyMail();
+SuggestPassword p=new SuggestPassword("asd");
+p.verifyPassword();
+	}
+
+}
